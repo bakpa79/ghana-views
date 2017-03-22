@@ -1,0 +1,33 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "lat": "5.5552303",
+      "lng":"-0.192512"
+    },{
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode",
+      "lat": "5.5623145",
+      "lng":"-0.1385911"
+    },{
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode",
+      "lat": "5.1033367",
+      "lng":"-1.2416179"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
