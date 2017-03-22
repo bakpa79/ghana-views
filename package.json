@@ -4,7 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "redux":"*",
+    "redux-logger":"*",
+    "google-maps":"*",
+    "axios":"*"
   },
   "devDependencies": {
     "babel-preset-env": "^1.2.1",
